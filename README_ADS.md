@@ -12,10 +12,9 @@ A gestão escolar nas instituições públicas brasileiras enfrenta desafios est
 Apesar de sua importância, grande parte desse controle ainda é realizado de forma manual ou com sistemas obsoletos, gerando riscos de desperdício, falhas logísticas, inconsistência de dados e dificuldades na transparência das informações. Isso impacta diretamente a qualidade do serviço prestado aos alunos e a eficiência na gestão dos recursos públicos.
 
 ## Desafio
-
-    • **Desenvolver um protótipo funcional que contribua para a informatização e melhoria da gestão escolar em instituições públicas.**
-    • **Tema obrigatório**: Controle de Merenda Escolar.
-    • **Problema enfrentado**: Como criar uma solução digital acessível e funcional que contribua para modernizar e automatizar o controle da merenda escolar em instituições públicas, facilitando a gestão por parte das equipes escolares e promovendo maior transparência, agilidade e controle
+    • Desenvolver um protótipo funcional que contribua para a informatização e melhoria da gestão escolar em instituições públicas.
+    • Tema obrigatório: Controle de Merenda Escolar.
+    • Problema enfrentado: Como criar uma solução digital acessível e funcional que contribua para modernizar e automatizar o controle da merenda escolar em instituições públicas, facilitando a gestão por parte das equipes escolares e promovendo maior transparência, agilidade e controle
 
 ### Requisitos da Solução
 A equipe deverá entregar:
