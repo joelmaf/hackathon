@@ -42,6 +42,8 @@ A equipe deverá entregar:
 - A tecnologia utilizada é livre. 
 - Até, no máximo, 11h30, a solução deve ser postada no repositório oficial do evento, que será lacrado para análise. 
 
+Link para entrega do desafio (hora limite 11h30): https://forms.gle/aD5TdQLuFf9xKo1W6
+
 ### Agenda
 - 08h00 – Cadastramento e café da manhã
 - 08h30 – Abertura e instruções
