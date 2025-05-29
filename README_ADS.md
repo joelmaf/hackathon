@@ -12,18 +12,18 @@ A gestão escolar nas instituições públicas brasileiras enfrenta desafios est
 Apesar de sua importância, grande parte desse controle ainda é realizado de forma manual ou com sistemas obsoletos, gerando riscos de desperdício, falhas logísticas, inconsistência de dados e dificuldades na transparência das informações. Isso impacta diretamente a qualidade do serviço prestado aos alunos e a eficiência na gestão dos recursos públicos.
 
 ## Desafio
-    • Desenvolver um protótipo funcional que contribua para a informatização e melhoria da gestão escolar em instituições públicas.
-    • Tema obrigatório: Controle de Merenda Escolar.
-    • Problema enfrentado: Como criar uma solução digital acessível e funcional que contribua para modernizar e automatizar o controle da merenda escolar em instituições públicas, facilitando a gestão por parte das equipes escolares e promovendo maior transparência, agilidade e controle
+- **Desenvolver um protótipo funcional que contribua para a informatização e melhoria da gestão escolar em instituições públicas.**
+- **Tema obrigatório**: Controle de Merenda Escolar.
+- **Problema enfrentado**: Como criar uma solução digital acessível e funcional que contribua para modernizar e automatizar o controle da merenda escolar em instituições públicas, facilitando a gestão por parte das equipes escolares e promovendo maior transparência, agilidade e controle
 
 ### Requisitos da Solução
 A equipe deverá entregar:
-- Protótipo funcional: Aplicativo web, mobile ou software desktop que atenda ao desafio proposto.
-- Documentação obrigatória
+- **Protótipo funcional**: Aplicativo web, mobile ou software desktop que atenda ao desafio proposto.
+- **Documentação obrigatória**
   - Nome da equipe e dos integrantes
   - Wireframes ou protótipo navegável
   - Código-fonte
-- Apresentação (Pitch): apresentação de até 5 minutos explicando:
+- **Apresentação (Pitch)**: apresentação de até 5 minutos explicando:
   - O problema enfrentado
   - A solução proposta
   - O funcionamento do protótipo
@@ -38,11 +38,9 @@ A equipe deverá entregar:
 | Apresentação e Pitch          | 10%      |Clareza, objetividade e convencimento da proposta na apresentação.|
 | Documentação Técnica          | 15%      |Qualidade da descrição, organização do código e repositório, instruções de uso.|
 
-As equipes terão 2 horas e 30 minutos para desenvolver a solução. 
-
-A tecnologia utilizada é livre. 
-
-Até, no máximo, 11h30, a solução deve ser postada no repositório oficial do evento, que será lacrado para análise. 
+- As equipes terão 2 horas e 30 minutos para desenvolver a solução. 
+- A tecnologia utilizada é livre. 
+- Até, no máximo, 11h30, a solução deve ser postada no repositório oficial do evento, que será lacrado para análise. 
 
 ### Agenda
 - 08h00 – Cadastramento e café da manhã
