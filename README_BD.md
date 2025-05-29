@@ -20,7 +20,7 @@ https://dados.gov.br/dados/conjuntos-dados/programa-nacional-de-alimentacao-esco
   - Criar perguntas investigativas relevantes
   - Tratar e analisar os dados
   - Construir visualizações com insights claros
-  - Montar um dashboard interativo, utilizando qualquer ferramenta de Dashboard: Power BI, Tableau, Google Data Studio,  biblioteca Python (Plotly, Dash, Streamlit), etc.Bases de dados obrigatórias:
+  - Montar um dashboard interativo, utilizando qualquer ferramenta de Dashboard: Power BI, Tableau, Looker,  biblioteca Python (Plotly, Dash, Streamlit), etc.Bases de dados obrigatórias:
 
 ### Requisitos da Solução
 A equipe deverá entregar:
